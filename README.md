@@ -9,8 +9,14 @@
   <br>
 </h1>
 
+
+
+
 ## About me
 I'm 20y old Junior Developer from Mexico, i really love Frontend development with HTML CSS JS and their frameworks.
+
+
+
 
 ## Skills
 
