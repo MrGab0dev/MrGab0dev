@@ -9,9 +9,7 @@
   <br>
 </h1>
 
-<h2 align="center">
-  About Me
-</h2>
+## About me
 
 <p align="center">
   I'm 20y old amateur programmer from Mexico, i really love Frontend development</p>
