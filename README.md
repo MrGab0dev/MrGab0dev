@@ -1,5 +1,3 @@
-
-  <br>  <br>
 <h1 align="center">
   Hi, I'm Gabriel Escobar ⚡
   <br>
@@ -8,14 +6,12 @@
   <br>
   <br>
 </h1>
-
-
-
+<br>
 
 ## About me
 I'm 20y old Junior Developer from Mexico, i really love Frontend development with HTML CSS JS and their frameworks.
 
-  <br>  <br>  <br>
+<br>
 
 ## Skills
 
