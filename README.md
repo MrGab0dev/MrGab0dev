@@ -8,39 +8,26 @@
   <br>
   <br>
 </h1>
-<p align="center">A Junior Front-end Developer from Mexico</p>
 
+<h2 align="center">
+  About Me
+</h2>
 
 <p align="center">
-  <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
-  <a href="#license">License</a>
-</p>
+  I'm 20y old amateur programmer from Mexico, i really love Frontend development</p>
 
+## Skills
 
-## Credits
-
-This software uses the following open source packages:
-
-- [Electron](http://electron.atom.io/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-- [showdown](http://showdownjs.github.io/showdown/)
-- [CodeMirror](http://codemirror.net/)
-- Emojis are taken from [here](https://github.com/arvida/emoji-cheat-sheet.com)
-- [highlight.js](https://highlightjs.org/)
-
-
-
-## You may also like...
-
-> [amitmerchant.com](https://www.amitmerchant.com) &nbsp;&middot;&nbsp;
-> GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
-> Twitter [@amit_merchant](https://twitter.com/amit_merchant)
-
+* HTML5
+* CSS3
+* SCSS
+* JavaScript - ECMAS7+
+* ReacJs
+* NodeJs
+* Express
+* MySQL
+* MariaDB
+* Command Line
 
 
 <!--
