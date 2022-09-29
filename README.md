@@ -3,14 +3,12 @@
 <h1 align="center">
   Hi, I'm Gabriel Escobar ⚡
   <br>
-  A Junior Front-end Developer from Mexico<
-  <br>
   <br>
   <img src="https://c4.wallpaperflare.com/wallpaper/792/460/915/1920x1080-px-code-coding-programming-simple-background-anime-ah-my-goddess-hd-art-wallpaper-preview.jpg" alt="Progammer Routine" width="600">
   <br>
   <br>
 </h1>
-
+<p align="center">A Junior Front-end Developer from Mexico</p>
 
 
 <p align="center">
