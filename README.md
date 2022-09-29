@@ -10,9 +10,7 @@
 </h1>
 
 ## About me
-
-<p align="center">
-  I'm 20y old amateur programmer from Mexico, i really love Frontend development</p>
+I'm 20y old Junior Developer from Mexico, i really love Frontend development with HTML CSS JS and their frameworks.
 
 ## Skills
 
