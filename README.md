@@ -7,8 +7,8 @@
   <img src="https://c4.wallpaperflare.com/wallpaper/792/460/915/1920x1080-px-code-coding-programming-simple-background-anime-ah-my-goddess-hd-art-wallpaper-preview.jpg" alt="Progammer Routine" width="600">
   <br>
   <br>
-  <p style="font-size:10px;" align="center">A Junior Front-end Developer from Mexico</p>
 </h1>
+<p style="font-size:10px; color:red;" align="center">A Junior Front-end Developer from Mexico</p>
 
 
 
