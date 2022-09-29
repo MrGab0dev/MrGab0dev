@@ -3,8 +3,8 @@
 <h1 align="center">
   Hi, I'm Gabriel Escobar ⚡
   <br>
-  
-<img src="https://c4.wallpaperflare.com/wallpaper/792/460/915/1920x1080-px-code-coding-programming-simple-background-anime-ah-my-goddess-hd-art-wallpaper-preview.jpg" alt="Progammer Routine" width="700">
+  <br>
+  <img src="https://c4.wallpaperflare.com/wallpaper/792/460/915/1920x1080-px-code-coding-programming-simple-background-anime-ah-my-goddess-hd-art-wallpaper-preview.jpg" alt="Progammer Routine" width="600">
 </h1>
 
 <h4 align="center">A minimal Markdown Editor desktop app built on top of</h4>
