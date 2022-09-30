@@ -7,11 +7,11 @@
 <br>
 
 ## About me
-I'm 20y old Junior Developer from Mexico, i really love Frontend development with HTML CSS JS and their frameworks.
+I'm 20y old Junior Developer from Mexico, i really love Frontend development with HTML CSS JS and their frameworks 😄.
 
 <br>
 
-## Skills
+## Skills ⚡
 
 * HTML5
 * CSS3
@@ -23,6 +23,11 @@ I'm 20y old Junior Developer from Mexico, i really love Frontend development wit
 * MySQL
 * MariaDB
 * Command Line
+
+
+## Contact Me
+* Email: Gabrielescdev@gmail.com
+* LinkedIn: www.linkedin.com/in/gabrielescobar020923
 
 
 <!--
