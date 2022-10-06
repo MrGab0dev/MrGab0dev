@@ -17,7 +17,7 @@ I'm 20y old Junior Developer from Mexico, i really love Frontend development wit
 * CSS3
 * SCSS
 * JavaScript - ECMAS7+
-* ReacJs
+* ReactJs
 * NodeJs
 * Express
 * MySQL
