@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://drive.google.com/file/d/1igFef_Eugauy6l7H5fReTqO1I8Eh_AVh/view?usp=sharing" alt="Me" width="600">
+  <img src="./assets/dev.gif" alt="Me" width="600">
 </h1>
 <br>
 
