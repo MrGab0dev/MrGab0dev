@@ -9,17 +9,7 @@ I'm 20y old Junior Developer from Mexico, i really love Frontend development wit
 <br>
 
 ## Skills ⚡
-
-* HTML5
-* CSS3
-* SCSS
-* JavaScript - ECMAS7+
-* ReactJs
-* NodeJs
-* Express
-* MySQL
-* MariaDB
-* Command Line
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,node.js,react,tailwind,materialui,vite,linux,mysql)](https://skillicons.dev)
 
 
 ## Contact Me
