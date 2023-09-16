@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./assets/dev.gif" alt="Me" width="600">
+  <img src="./assets/dev.gif" alt="Me" width="700">
 </h1>
 <br>
 
@@ -8,11 +8,11 @@ I'm 20y old Junior Developer from Mexico, i really love Frontend development wit
 
 <br>
 
-## Skills ⚡
+## 💼 Technical Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,react,tailwind,materialui,vite,mysql,git,linux)](https://skillicons.dev)
 
 
-## Contact Me
+## ✉ Contact Me
 * Email: Gabrielescdev@gmail.com
 * LinkedIn: www.linkedin.com/in/gabrielescobar020923
 
