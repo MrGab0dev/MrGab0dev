@@ -1,6 +1,6 @@
-<h1 align="center">
+<div align="center">
   <img src="assets/dev.gif" alt="Me" width="700">
-</h1>
+</div>
 <br>
 
 ## About me
