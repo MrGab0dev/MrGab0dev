@@ -4,7 +4,7 @@
 <br>
 
 ## About me
-I'm 20y old Junior Developer from Mexico, i really love Frontend development with HTML CSS JS and their frameworks 😄.
+I'm a Junior Developer from Mexico, 21 yrs old, I love Web Development in FrontEnd and BackEnd and solve DSA problems 💻.
 
 <br>
 
