@@ -9,7 +9,7 @@ I'm a Junior Developer from Mexico, 21 yrs old, I love Web Development in FrontE
 <br>
 
 ## 💼 Technical Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,react,tailwind,materialui,vite,mysql,git,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,react,nextjs,tailwind,materialui,vite,mysql,git,linux)](https://skillicons.dev)
 
 
 ## ✉ Contact Me
